@@ -1,7 +1,6 @@
 # A-Ariannejad
 # 💫 About Me:
-I'm a Backend Developer for Websites and Video Games.<br>I'm looking to seek new opportunities to learn and make new stuff.<br>I'm always learning and a fast learner.<br>My goal is make stuff which everyone would use and enjoy.
-
+I am an experienced Backend Developer specializing in Websites and Video Games. I am passionate about seeking new opportunities to expand my knowledge and create innovative projects. As a dedicated and fast learner, I thrive in dynamic environments where I can continuously learn and grow.<br>My ultimate goal is to develop products that resonate with users and provide them with an enjoyable experience. I am driven by the desire to create something that people will love and use on a daily basis. I am open to exciting challenges and collaborations that allow me to push the boundaries of what's possible in the world of technology.<br>If you are looking for a talented and motivated developer to join your team, I would love to connect and discuss how my skills and passion can contribute to your projects. Let's create something amazing together!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a_ariannejad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arshia-ariannejad-585475195) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@AArian193134) 
